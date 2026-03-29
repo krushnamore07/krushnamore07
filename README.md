@@ -62,15 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-[](https://github-readme-stats.vercel.app/api?username=krushnamore07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
-
-[](https://nirzak-streak-stats.vercel.app/?user=krushnamore07&theme=tokyonight&hide_border=true)  
-
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnamore07&theme=tokyonight&hide_border=true&layout=compact)  
-
----
-
 ## 🧠 Currently Learning  
 - 🔸 Flutter App Development  
 - 🔸 Advanced Java & Spring Boot  
